@@ -1,7 +1,11 @@
 # Predicting NBA All Stars
 
-We will use current 2021 NBA data to predict if a play is an all star.
+The purpose of this project is to build a model to predict if a player will be an NBA All-Star based on their stats.
 
-We have implemented 3 Algorithms. Random Forest, Decision Trees, and Naive Bayes.
 
-The Random Forest Algorithm performed the best with 97% accuracy. 
+We implemented 3 Algorithms. 
+* Random Forest
+* Decision Trees
+* Naive Bayes.
+
+The Random Forest Algorithm performed the best with 97.6% accuracy. 
